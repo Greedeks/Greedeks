@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Jura&weight=30&size=36&duration=1500&pause=1000&color=FF195D&center=true&random=false&width=200&height=45&lines=Greedeks" alt="Typing SVG" /></h1>
 
 
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=greedeks&repo=gtweak&border_color=FF195D&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF195D)](https://github.com/alsiam/itasks)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=greedeks&repo=gtweak&border_color=FF195D&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF195D)](https://github.com/greedeks/gtweak)
 
 <br><b/>
 
