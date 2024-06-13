@@ -26,7 +26,7 @@
 [![github](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Greedeks)
 [![telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Greedeks)
 [![steam](https://img.shields.io/badge/STEAM-042430?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/greedeks/)
-
+[![steam](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/greedeks)
 ###
 ---
 [![](https://visitcount.itsvg.in/api?id=Greedeks&icon=3&color=12)](https://visitcount.itsvg.in)
