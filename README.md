@@ -1,7 +1,7 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Jura&weight=50&size=36&duration=1500&pause=1000&color=00CCCC&center=true&random=false&width=200&height=45&lines=Greedeks" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Jura&weight=50&size=36&duration=1500&pause=1000&color=FF0A57&center=true&random=false&width=200&height=45&lines=Greedeks" alt="Typing SVG" /></h1>
 
 
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=greedeks&repo=gtweak&border_color=00CCCC&bg_color=0D1117&title_color=00CCCC&text_color=8B949E&icon_color=00CCCC)](https://github.com/greedeks/gtweak)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=greedeks&repo=gtweak&border_color=FF0A57&bg_color=0D1117&title_color=FF0A57&text_color=8B949E&icon_color=FF0A57)](https://github.com/greedeks/gtweak)
 
 <br><b/>
 
