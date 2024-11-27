@@ -1,7 +1,7 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Jura&weight=50&size=36&duration=1500&pause=1000&color=FF0A57&center=true&random=false&width=200&height=60&lines=Greedeks" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Jura&weight=50&size=36&duration=2500&pause=3000&color=008CF0&center=true&random=false&width=200&height=60&lines=Greedeks" alt="Typing SVG" /></h1>
 
 
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=greedeks&repo=gtweak&border_color=FF0A57&bg_color=0D1117&title_color=FF0A57&text_color=8B949E&icon_color=FF0A57)](https://github.com/greedeks/gtweak)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=greedeks&repo=gtweak&border_color=008CF0&bg_color=0D1117&title_color=008CF0&text_color=8B949E&icon_color=008CF0)](https://github.com/greedeks/gtweak)
 
 <br><b/>
 
@@ -29,4 +29,4 @@
 [![steam](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/greedeks)
 ###
 ---
-[![](https://visitcount.itsvg.in/api?id=Greedeks&icon=3&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Greedeks&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
