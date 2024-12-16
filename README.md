@@ -2,7 +2,7 @@
 
 <div align="left">
   
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=greedeks&repo=gtweak&border_color=c41745&bg_color=0D1117&title_color=c41745&text_color=c4174c&icon_color=c41745)](https://github.com/greedeks/gtweak)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=greedeks&repo=gtweak&border_color=FF0A57&bg_color=0D1117&title_color=FF0A57&text_color=8B949E&icon_color=FF0A57)](https://github.com/greedeks/gtweak)
 
 </br><div align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Play&weight=200&size=30&duration=2500&pause=2000&color=ffffff&background=FFFFFF00&width=320&height=40&lines=Languages+and+tools" alt="Typing SVG" /></div>
 
