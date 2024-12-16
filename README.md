@@ -1,10 +1,10 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Play&weight=50&size=36&duration=2500&pause=2000&color=c41745&center=true&random=false&width=200&height=60&lines=Greedeks" alt="Typing SVG" /></div></br>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Play&weight=50&size=36&duration=2500&pause=2000&color=FF0A57&center=true&random=false&width=200&height=60&lines=Greedeks" alt="Typing SVG" /></div></br>
 
 <div align="left">
   
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=greedeks&repo=gtweak&border_color=FF0A57&bg_color=0D1117&title_color=FF0A57&text_color=8B949E&icon_color=FF0A57)](https://github.com/greedeks/gtweak)
 
-</br><div align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Play&weight=200&size=30&duration=2500&pause=2000&color=ffffff&background=FFFFFF00&width=320&height=40&lines=Languages+and+tools" alt="Typing SVG" /></div>
+</br><div align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Play&weight=200&size=30&duration=2500&pause=2000&color=FF0A57&background=FFFFFF00&width=320&height=40&lines=Languages+and+tools" alt="Typing SVG" /></div>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?color=c41745&style=for-the-badge&logo=csharp&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?color=b00c32&style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -23,7 +23,7 @@
 
 <br>
 
-<div align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Play&weight=200&size=30&duration=2500&pause=2000&color=ffffff&background=FFFFFF00&width=150&height=40&lines=Contacts" alt="Typing SVG" /></div>
+<div align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Play&weight=200&size=30&duration=2500&pause=2000&color=479cff&background=FFFFFF00&width=150&height=40&lines=Contacts" alt="Typing SVG" /></div>
 
 [![github](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Greedeks)
 [![telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Greedeks)
