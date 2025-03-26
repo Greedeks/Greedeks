@@ -7,7 +7,7 @@
 </br>
 
 ## 💻Use Stuff
- <img src="https://skillicons.dev/icons?i=cs,cpp,java,dotnet,html,css,js,py,php,mysql,sqlite,powershell,visualstudio,vscode,idea,androidstudio,ai,ps" width="70%"/>
+ <img src="https://skillicons.dev/icons?i=cs,cpp,java,dotnet,html,css,js,py,php,mysql,sqlite,powershell,visualstudio,vscode,idea,androidstudio,ai,ps"/>
  
 </div>
 </br>
