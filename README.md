@@ -1,9 +1,9 @@
 <div align="left">
   <h2>「 Languages & Frameworks 」</h2>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java,dotnet,html,css,js,py,php,mysql,sqlite,powershell" width="65%">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,dotnet,html,css,js,py,php,mysql,sqlite,powershell">
   <br><br>
   <h2>「 Soft 」</h2>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,androidstudio,ai,ps" width="35%">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,androidstudio,ai,ps"">
   <br><br>
   <h2>「 Contact details 」</h2>
   &nbsp;
