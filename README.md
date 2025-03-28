@@ -6,7 +6,7 @@
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,androidstudio,ai,ps" width="35%">
   <br><br>
   <h2>「 Contact details 」</h2>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://t.me/Greedeks">
     <img src="https://cdn-icons-png.flaticon.com/64/2111/2111646.png" alt="Telegram" width="42">
   </a>&nbsp;
