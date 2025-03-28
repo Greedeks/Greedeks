@@ -1,21 +1,19 @@
-<div align="left">
-  
-##  Open Source
-  
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=greedeks&repo=gtweak&border_color=FF0A57&bg_color=00000000&title_color=FF0A57&text_color=8B949E&icon_color=FF0A57)](https://github.com/greedeks/gtweak)
-
-</br>
-
-## 💻Use Stuff
- <img src="https://skillicons.dev/icons?i=cs,cpp,java,dotnet,html,css,js,py,php,mysql,sqlite,powershell,visualstudio,vscode,idea,androidstudio,ai,ps"/>
- 
+<div align="center">
+  <h2>「 Languages & Frameworks 」</h2>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,dotnet,html,css,js,py,php,mysql,sqlite,powershell" width="65%">
+  <br><br>
+  <h2>「 Soft 」</h2>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,androidstudio,ai,ps" width="35%">
+  <br><br>
+  <h2>「 Contact details 」</h2>
+  <a href="https://t.me/Greedeks">
+    <img src="https://cdn-icons-png.flaticon.com/64/2111/2111646.png" alt="Telegram" width="48">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://steamcommunity.com/id/greedeks/">
+    <img src="https://cdn-icons-png.flaticon.com/64/3670/3670233.png" alt="Steam" width="48">
+  </a>
 </div>
-</br>
-</br>
 
-## Contacts
 
-[![telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Greedeks)
-[![steam](https://img.shields.io/badge/STEAM-042430?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/greedeks/)
 
 
