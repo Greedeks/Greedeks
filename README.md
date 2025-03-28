@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h2>「 Languages & Frameworks 」</h2>
   <img src="https://skillicons.dev/icons?i=cs,cpp,java,dotnet,html,css,js,py,php,mysql,sqlite,powershell" width="65%">
   <br><br>
