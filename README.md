@@ -4,7 +4,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=js,py,php,mysql,sqlite,powershell">
   <br><br>
-  <h2>「 Soft 」</h2>
+  <h2>「 Software 」</h2>
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,androidstudio,ai,ps"">
   <br><br>
   <h2>「 Contact details 」</h2>
