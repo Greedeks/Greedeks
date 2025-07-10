@@ -1,4 +1,5 @@
 <div align="left">
+  
   <h2>「 Languages & Frameworks 」</h2>
   <img src="https://skillicons.dev/icons?i=cs,cpp,java,dotnet,html,css">
   <br>
@@ -8,13 +9,22 @@
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,androidstudio,ai,ps"">
   <br><br>
   <h2>「 Contact details 」</h2>
-  &nbsp;
-  <a href="https://t.me/Greedeks">
-    <img src="https://cdn-icons-png.flaticon.com/64/2111/2111646.png" alt="Telegram" width="42">
-  </a>&nbsp;
-  <a href="https://steamcommunity.com/id/greedeks/">
-    <img src="https://cdn-icons-png.flaticon.com/64/3670/3670233.png" alt="Steam" width="42">
+<div>
+  <a href="https://discord.com/users/510484750277017639">
+    <img src="https://discord.c99.nl/widget/theme-4/510484750277017639.png" alt="Discord" style="border-radius: 8px; max-width: 100%;">
   </a>
+</div>
+
+<div style="margin-top: 20px;">
+  <a href="https://t.me/Greedeks" target="_blank" style="margin-right: 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="42">
+  </a>
+  
+  <a href="https://steamcommunity.com/id/greedeks/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670233.png" alt="Steam" width="42">
+  </a>
+</div>
+
 </div>
 
 
