@@ -9,11 +9,7 @@
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,androidstudio,ai,ps"">
   <br><br>
   <h2>「 Contact details 」</h2>
-<div>
-  <a href="https://discord.com/users/510484750277017639">
-    <img src="https://discord.c99.nl/widget/theme-4/510484750277017639.png" alt="Discord" style="border-radius: 8px; max-width: 100%;">
-  </a>
-</div>
+
 
 <div style="margin-top: 20px;">
   <a href="https://t.me/Greedeks" target="_blank" style="margin-right: 15px;">
