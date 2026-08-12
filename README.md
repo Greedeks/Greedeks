@@ -1,28 +1,7 @@
-<div align="left">
-  
-  <h2>「 Languages & Frameworks 」</h2>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java,dotnet,html,css">
-  <br>
-  <img src="https://skillicons.dev/icons?i=js,py,php,mysql,sqlite,powershell">
-  <br><br>
-  <h2>「 Software 」</h2>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,androidstudio,ai,ps"">
-  <br><br>
-  <h2>「 Contact details 」</h2>
-
-
-<div style="margin-top: 20px;">
-  <a href="https://t.me/Greedeks" target="_blank" style="margin-right: 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="42">
-  </a>
-  
-  <a href="https://steamcommunity.com/id/greedeks/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670233.png" alt="Steam" width="42">
-  </a>
+<div align="center">
+<img src="makima.gif" width="500" height="281">
+<br>
+<a href="https://github.com/Greedeks">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&width=550&lines=.NET+DEVELOPER+%7C+SYSTEM+TOOLS;BACKEND+ENGINEER+%7C+C%23+%26+C%2B%2B;SOFTWARE+ENGINEER+%7C+JAVA+%26+C" alt=""/>
+</a>
 </div>
-
-</div>
-
-
-
-
